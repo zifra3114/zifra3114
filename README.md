@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Zifra Firdous</h1>
+<h1 align="center" color="blue">Hi 👋, I'm Zifra Firdous</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.freepik.com/free-vector/top-view-wooden-messy-work-table-night-cartoon-vector-workspace-with-light-from-screen-tablet-notebook-sticky-notes-cookie-crumbs-keyboard-coffee-spills-desk-phone-glasses_107791-23714.jpg" alt="" width="700"  /></a> </p>
 
-- 🌱 I’m currently learning **web development**
+* 🌱 I’m currently learning **web development**
 
-- 📫 How to reach me **zifrafirdous372@gmail.com**
+* 📫 How to reach me **zifrafirdous372@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+* ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
