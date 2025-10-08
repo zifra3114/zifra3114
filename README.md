@@ -1,58 +1,86 @@
-<h1 align="center" style="color:#007BFF;">Hi 👋, I'm <span style="color:#4da6ff;">Zifra Firdous</span></h1>
-<h3 align="center">💻 A Passionate Frontend Developer from Pakistan</h3>
+<!-- 💙 Zifra Firdous – Stylish GitHub Portfolio README 💙 -->
 
+<div align="center">
+
+<!-- Animated Heading -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Zifra+Firdous;Frontend+Developer;Welcome+to+My+GitHub!" alt="Typing SVG" />
+
+</div>
+<hr style="border: 2px solid #1E90FF; width: 80%; margin:auto;">
+<div align="center">
+  <img src="https://media.istockphoto.com/id/1257568481/vector/program-code-create-on-laptop-on-programmer-workplace-coding-optimization-and-testing-app.jpg?s=612x612&w=0&k=20&c=-mAtowABw5Ofdn3Q120nlblkioCrqKSZX5uzjifnqIg=" width="800" hight="400"/>
+</div>
+
+
+<div align="center">
+  
+✨ **“Designing the Web with Creativity & Code.”** ✨  
+💙 *Building responsive, animated and modern UIs.* 💙  
+
+</div>
+
+---
+
+### 🌸 About Me
+- 🌱 Currently mastering **Frontend Development**
+- ⚙️ Tech Stack: *HTML | CSS | JavaScript | Next.js | TypeScript*
+- 🎯 Goal: *To build websites that blend design with performance*
+- 💌 Email: **zifrafirdous.dev@gmail.com**
+- 💫 Fun Fact: *My code sometimes laughs at my bugs 😆*
+
+---
+
+### 🔗 Connect With Me
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/top-view-wooden-messy-work-table-night-cartoon-vector-workspace-with-light-from-screen-tablet-notebook-sticky-notes-cookie-crumbs-keyboard-coffee-spills-desk-phone-glasses_107791-23714.jpg" alt="Workspace" width="700"/>
-</p>
-
----
-
-### 🌱 About Me  
-- 🔭 I’m currently learning **Web Development**  
-- 💬 Ask me about **HTML, CSS, JavaScript, and UI Design**  
-- 📫 Reach me at: **zifrafirdous372@gmail.com**  
-- ⚡ Fun fact: *I’m Funny 😄*  
-
----
-
-### 🤝 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/zifra-firdous" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
+  <a href="https://www.linkedin.com/in/zifrafirdous14/" target="_blank">
+    <img src="https://img.icons8.com/nolan/96/linkedin.png" width="50"/>
   </a>
   <a href="https://github.com/zifra3114" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="40" width="50"/>
+    <img src="https://img.icons8.com/nolan/96/github.png" width="50"/>
   </a>
-  <a href="mailto:zifrafirdous372@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="40" width="50"/>
+  <a href="mailto:zifrafirdous.dev@gmail.com">
+    <img src="https://img.icons8.com/nolan/96/gmail-new.png" width="50"/>
   </a>
 </p>
 
 ---
 
-### 🧰 Languages & Tools  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70"/>
-</p>
-
----
-
-### 📊 GitHub Stats  
+### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zifra3114&show_icons=true&theme=blueberry" alt="Zifra's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zifra3114&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="Top Languages" height="165"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,vscode,figma" />
 </p>
 
 ---
 
-### 💫 Quote for Today  
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+### ⚡ GitHub Stats
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=zifra3114&show_icons=true&theme=blue_navy&hide_border=true&title_color=00BFFF&icon_color=00BFFF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zifra3114&layout=compact&theme=blue_navy&hide_border=true&title_color=00BFFF" height="165"/>
+
+</div>
 
 ---
 
-⭐ **Follow me** for more creative web projects!
+### 🌊 Contribution Flow
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zifra3114&bg_color=0D1117&color=1E90FF&line=00BFFF&point=38BDF8&area=true&hide_border=true" alt="Zifra's Contribution Graph"/>
+</p>
+
+---
+
+### 💬 Quote of the Day
+> “First, solve the problem. Then, write the code beautifully.”  
+> — *Zifra Firdous*
+
+---
+
+<div align="center">
+  
+✨ *Thanks for visiting! Drop a ⭐ if you like my work!* ✨  
+<br><br>
+<img src="https://img.shields.io/badge/💙%20Made%20with%20passion%20by-Zifra%20Firdous-blue?style=for-the-badge"/>
+
+</div>
+
 
