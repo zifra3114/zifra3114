@@ -8,7 +8,8 @@
 </div>
 <hr style="border: 2px solid #1E90FF; width: 80%; margin:auto;">
 <div align="center">
-  <img src="https://media.istockphoto.com/id/1257568481/vector/program-code-create-on-laptop-on-programmer-workplace-coding-optimization-and-testing-app.jpg?s=612x612&w=0&k=20&c=-mAtowABw5Ofdn3Q120nlblkioCrqKSZX5uzjifnqIg=" width="800" hight="400"/>
+<img src="https://i.pinimg.com/1200x/52/88/e9/5288e904462b08a65196179399da57e7.jpg" width="800" height="600" alt="Neon Image"/>
+
 </div>
 
 
