@@ -57,14 +57,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=zifra3114&show_icons=true&theme=blue_navy&hide_border=true&title_color=00BFFF&icon_color=00BFFF" height="165"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=zifra3114&show_icons=true&theme=dark&hide_border=true&title_color=00BFFF&icon_color=00BFFF" width="400" height="165"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zifra3114&layout=compact&theme=blue_navy&hide_border=true&title_color=00BFFF" height="165"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zifra3114&layout=compact&theme=dark&hide_border=true&title_color=00BFFF" width="400" height="165"/>
       </td>
     </tr>
   </table>
 </p>
+
 
 ---
 
