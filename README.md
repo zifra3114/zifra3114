@@ -1,12 +1,11 @@
 <div align="center">
 
 <!-- Animated Heading -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Zifra+Firdous;Frontend+Developer;Welcome+to+My+GitHub!" alt="Typing SVG" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=35&duration=2500&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Zifra+Firdous;Frontend+Developer;Welcome+to+My+GitHub!" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=35&duration=2500&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Zifra+Firdous;Frontend+Developer;Welcome+to+My+GitHub!" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=35&duration=2500&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Zifra+Firdous;Frontend+Developer;Welcome+to+My+GitHub!" alt="Typing SVG" />
+
 
 
 <hr style="border: 2px solid #1E90FF; width: 80%; margin:auto;">
