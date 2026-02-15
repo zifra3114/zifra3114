@@ -7,7 +7,7 @@
 <hr style="border: 2px solid #1E90FF; width: 80%; margin:auto; box-shadow: 0 4px 12px rgba(0,0,0,0.6);">
 
 <div align="center" style="background-color:#0D1117; padding:20px; border-radius:15px; box-shadow: 0 8px 30px rgba(0,0,0,0.7);">
-<img src="https://pin.it/Wq6JYerns" width="800" height="600" alt="Neon Web Dev Image" style="border-radius:15px; box-shadow:0 10px 30px rgba(0,0,255,0.5);"/>
+<img src="https://pin.it/2kVYHQDJi" width="800" height="600" alt="Neon Web Dev Image" style="border-radius:15px; box-shadow:0 10px 30px rgba(0,0,255,0.5);"/>
 </div>
 
 <div align="center" style="margin-top:20px; color:#00BFFF; text-shadow: 2px 2px 6px #1E90FF;">
