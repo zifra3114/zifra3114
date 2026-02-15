@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B3D91&height=250&section=header&text=Zifra%20Firdous&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 <div align="center" style="background: linear-gradient(135deg,#050816,#0B3D91,#000814); padding:50px; border-radius:20px; box-shadow: 0 0 40px #0B3D91; color:white;">
 
 <!-- Animated Heading -->
