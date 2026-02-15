@@ -1,7 +1,8 @@
-<div align="center" style="background-color:#0B3D91; padding:40px; border-radius:15px; box-shadow: 0 10px 25px rgba(0,0,0,0.7); color:white;">
+<div align="center" style="background: linear-gradient(135deg,#050816,#0B3D91,#000814); padding:50px; border-radius:20px; box-shadow: 0 0 40px #0B3D91; color:white;">
 
 <!-- Animated Heading -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Zifra+Firdous;Full-Stack+%26+WordPress+Developer;Welcome+to+My+GitHub!" style="filter: drop-shadow(3px 3px 6px #000000);" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Zifra+Firdous;Full-Stack+%26+WordPress+Developer;Welcome+to+My+GitHub!" 
+style="filter: drop-shadow(0 0 15px #1E90FF);" />
 
 ---
 
@@ -17,13 +18,13 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/zifrafirdous14/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" style="filter: drop-shadow(3px 3px 6px #000000);" />
+    <img src="https://skillicons.dev/icons?i=linkedin" style="filter: drop-shadow(0 0 12px #1E90FF);" />
   </a>
   <a href="https://github.com/zifra3114" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" style="filter: drop-shadow(3px 3px 6px #000000);" />
+    <img src="https://skillicons.dev/icons?i=github" style="filter: drop-shadow(0 0 12px #1E90FF);" />
   </a>
   <a href="mailto:zifrafirdous.dev@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" style="filter: drop-shadow(3px 3px 6px #000000);" />
+    <img src="https://skillicons.dev/icons?i=gmail" style="filter: drop-shadow(0 0 12px #1E90FF);" />
   </a>
 </p>
 
@@ -31,22 +32,27 @@
 
 ## 🚀 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,wordpress,bootstrap,git,vscode,figma" style="filter: drop-shadow(3px 3px 6px #000000);" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,wordpress,bootstrap,git,vscode,figma" 
+  style="filter: drop-shadow(0 0 12px #1E90FF);" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zifra3114&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FFFFFF&icon_color=1E90FF" style="background-color:#0B3D91; border-radius:15px; box-shadow:0 8px 20px rgba(0,0,0,0.7);" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zifra3114&layout=compact&theme=dark&hide_border=true&title_color=FFFFFF&icon_color=1E90FF" style="background-color:#0B3D91; border-radius:15px; box-shadow:0 8px 20px rgba(0,0,0,0.7);" />
+  <img height="165" 
+  src="https://github-readme-stats.vercel.app/api?username=zifra3114&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=1E90FF&icon_color=1E90FF" />
+  
+  <img height="165" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zifra3114&layout=compact&theme=tokyonight&hide_border=true&title_color=1E90FF" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zifra3114&theme=react-dark&hide_border=true" style="filter: drop-shadow(3px 3px 6px #000000); border-radius:15px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zifra3114&theme=react-dark&hide_border=true&color=1E90FF&line=1E90FF&point=FFFFFF" 
+  style="filter: drop-shadow(0 0 15px #1E90FF); border-radius:15px;" />
 </p>
 
 ---
@@ -58,7 +64,8 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20💙%20by-Zifra%20Firdous-1E90FF?style=for-the-badge&logoColor=white" style="filter: drop-shadow(2px 2px 5px #000000);" />
+  <img src="https://img.shields.io/badge/Made%20with%20💙%20by-Zifra%20Firdous-1E90FF?style=for-the-badge&logoColor=white" 
+  style="filter: drop-shadow(0 0 12px #1E90FF);" />
 </p>
 
 </div>
