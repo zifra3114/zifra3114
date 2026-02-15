@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Heading -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&duration=3000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Zifra+Firdous;Frontend+%26+WordPress+Developer;Modern+Web+Designs+with+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&duration=3000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Zifra++Firdous;Full-Stuck+%26+WordPress+Developer;Modern+Welome to my Github!" alt="Typing SVG" />
 
 
 </div>
