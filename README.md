@@ -2,7 +2,10 @@
 
 <!-- Animated Heading -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=40&duration=3000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Zifra+Firdous;Full-Stack+%26+WordPress+Developer;Crafting+Responsive+%26+Modern+Websites" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Zifra+Firdous;Full-Stack+%26+WordPress+Developer;Building+Modern+Web+Apps" alt="Typing SVG" />
+</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&duration=3000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Zifra+Firdous;Frontend+%26+WordPress+Developer;Modern+Web+Designs+with+Code" alt="Typing SVG" />
+
 
 </div>
 
