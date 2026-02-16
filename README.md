@@ -10,8 +10,13 @@
 
 <br><br>
 
-✨ <b>Designing the Web with Creativity & Clean Code</b> ✨  
-💙 Building responsive, modern & high-performance web experiences.
+<div align="center">
+
+<h2>✨ Designing the Web with Creativity & Clean Code ✨</h2>
+<p><b>💙 Building responsive, modern & high-performance web experiences.</b></p>
+
+</div>
+
 
 </div>
 
