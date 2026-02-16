@@ -12,10 +12,10 @@
 
 <div align="center">
 
-<h2>✨ Designing the Web with Creativity & Clean Code ✨</h2>
-<p><b>💙 Building responsive, modern & high-performance web experiences.</b></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=26&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Designing+the+Web+with+Creativity+%26+Clean+Code;Building+responsive,+modern+web+experiences" />
 
 </div>
+
 
 
 </div>
