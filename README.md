@@ -5,7 +5,7 @@
 <br><br>
 
 <!-- Replace this image with your own uploaded image -->
- <img src="https://i.pinimg.com/736x/8c/e4/ab/8ce4ab4a3e9a32917d406412fdba415a.jpg" width="850"/> 
+ <img src="https://i.pinimg.com/1200x/e7/db/c5/e7dbc54f1131e503962edfad7afbed38.jpg" width="1250"/> 
 
 
 <br><br>
