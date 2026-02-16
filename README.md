@@ -1,11 +1,12 @@
-<div align="center">
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/400367b1-4148-477a-86fe-a13de119afef" /><div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=40&duration=3000&color=00BFFF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Zifra+Firdous;Full-Stack+%26+WordPress+Developer;Crafting+Modern+Web+Experiences" />
 
 <br><br>
 
 <!-- Replace this image with your own uploaded image -->
-<img src="https://i.pinimg.com/1200x/90/56/d3/9056d37cff0fcead7492b2a4fb4b01cf.jpg" width="850"/>
+<!-- <img src="https://i.pinimg.com/1200x/90/56/d3/9056d37cff0fcead7492b2a4fb4b01cf.jpg" width="850"/> -->
+![Uploading image.png…]()
 
 <br><br>
 
