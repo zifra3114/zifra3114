@@ -55,18 +55,13 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-<table>
-<tr>
-<td>
 <img src="https://github-readme-stats.vercel.app/api?username=zifra3114&show_icons=true&theme=dark&hide_border=true&title_color=00BFFF&icon_color=00BFFF"/>
-</td>
-
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zifra3114&layout=compact&theme=dark&hide_border=true&title_color=00BFFF"/>
-</td>
-</tr>
-</table>
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zifra3114&layout=compact&theme=dark&hide_border=true&title_color=00BFFF"/>
+</p>
+
 
 ---
 
