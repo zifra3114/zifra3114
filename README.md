@@ -1,6 +1,6 @@
 <!-- <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/400367b1-4148-477a-86fe-a13de119afef" /><div align="center"> -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=40&duration=3000&color=3327f2&center=true&vCenter=true&width=750&lines=Hi,+I'm+Zifra+Firdous;Full-Stack+%26+WordPress+Developer;Welcome+to+my+Github!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=40&duration=3000&color=098eed&center=true&vCenter=true&width=750&lines=Hi,+I'm+Zifra+Firdous;Full-Stack+%26+WordPress+Developer;Welcome+to+my+Github!" />
 
 <br><br>
 
