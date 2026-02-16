@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=40&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Zifra+Firdous;Full-Stack+%26+WordPress+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=40&duration=3000&color=00BFFF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Zifra+Firdous;Full-Stack+%26+WordPress+Developer;Crafting+Modern+Web+Experiences" />
 
 <br><br>
 
-<img src="https://i.pinimg.com/1200x/52/88/e9/5288e904462b08a65196179399da57e7.jpg" width="800" height="500" style="border-radius:20px; box-shadow:0px 10px 30px rgba(0,0,0,0.4);" />
+<!-- Replace this image with your own uploaded image -->
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop" width="850"/>
 
 <br><br>
 
 ✨ <b>Designing the Web with Creativity & Clean Code</b> ✨  
-💙 Building responsive, animated & high-performance user interfaces.
+💙 Building responsive, modern & high-performance web experiences.
 
 </div>
 
@@ -19,20 +20,20 @@
 
 - 🌱 Currently mastering **Frontend & Full-Stack Development**
 - ⚙️ Tech Stack: **HTML, CSS, JavaScript, React, Next.js, TypeScript, WordPress**
-- 🎯 Goal: Creating websites that combine **design + performance**
-- 💼 Open for **Freelance & Remote Projects**
+- 🎯 Focused on **Design + Performance**
+- 💼 Open for **Freelance Projects**
 - 💌 Email: **zifrafirdous.dev@gmail.com**
-- 💫 Fun Fact: *Sometimes my bugs teach me better coding 😄*
+- 💫 Fun Fact: *Debugging is my daily gym 😄*
 
 ---
 
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zifrafirdous14/" target="_blank">
+  <a href="https://www.linkedin.com/in/zifrafirdous14/">
     <img src="https://img.icons8.com/nolan/96/linkedin.png" width="50"/>
   </a>
-  <a href="https://github.com/zifra3114" target="_blank">
+  <a href="https://github.com/zifra3114">
     <img src="https://img.icons8.com/nolan/96/github.png" width="50"/>
   </a>
   <a href="mailto:zifrafirdous.dev@gmail.com">
@@ -45,7 +46,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,vscode,figma,wordpress" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,git,vscode,figma,wordpress"/>
 </p>
 
 ---
@@ -56,11 +57,11 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=zifra3114&show_icons=true&theme=dark&hide_border=true&title_color=00BFFF&icon_color=00BFFF" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zifra3114&show_icons=true&theme=dark&hide_border=true&title_color=00BFFF&icon_color=00BFFF"/>
 </td>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zifra3114&layout=compact&theme=dark&hide_border=true&title_color=00BFFF" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zifra3114&layout=compact&theme=dark&hide_border=true&title_color=00BFFF"/>
 </td>
 </tr>
 </table>
@@ -78,14 +79,14 @@
 
 ## 💬 Developer Quote
 
-> *First solve the problem, then write the code beautifully.*  
+> First solve the problem, then write the code beautifully.  
 > — **Zifra Firdous**
 
 ---
 
 <div align="center">
 
-✨ Thanks for visiting my profile! ✨  
+✨ Thanks for visiting my profile ✨  
 ⭐ Star repositories if you like my work.
 
 <br><br>
