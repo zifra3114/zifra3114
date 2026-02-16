@@ -5,7 +5,7 @@
 <br><br>
 
 <!-- Replace this image with your own uploaded image -->
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop" width="850"/>
+<img src="https://pin.it/2QegaTPNr" width="850"/>
 
 <br><br>
 
